@@ -1,4 +1,0 @@
-PracticalMachineLearning
-========================
-
-Practical Machine Learning
